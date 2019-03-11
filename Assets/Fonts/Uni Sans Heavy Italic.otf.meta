@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: 818de152922e1c2458f33e8c6684f0f3
+timeCreated: 1543541247
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Uni Sans
+  fontNames:
+  - Uni Sans
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 741335b1dd3806e44897e66aeb849037, type: 3}
+  - {fileID: 12800000, guid: 4de6d3afd0b72d847b2670d77db1846a, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
